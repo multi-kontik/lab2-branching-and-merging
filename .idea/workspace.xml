@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="105596f8-7bd7-40af-a753-ff8d822fb6cc" name="Changes" comment="Checked off the rest of the completed items in README.md">
+    <list default="true" id="105596f8-7bd7-40af-a753-ff8d822fb6cc" name="Changes" comment="Edited recipe.md file">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe.md" beforeDir="false" afterPath="$PROJECT_DIR$/recipe.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +59,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "alice",
+    "git-widget-placeholder": "task__3",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
@@ -109,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758038460807</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Edited recipe.md file">
+      <option name="closed" value="true" />
+      <created>1758040062097</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1758040062097</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,7 +136,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Checked off the completed items so far in README.md&#10;Completed TASK 1 TODO in DataTypes.java" />
     <MESSAGE value="Checked off the rest of the completed items in README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Checked off the rest of the completed items in README.md" />
+    <MESSAGE value="Edited recipe.md file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edited recipe.md file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
